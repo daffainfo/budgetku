@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Budgetku</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="summary">Summary</string>
+    <string name="about">About</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="summary_fragment">Summary</string>
+
+    <string name="history_menu">History</string>
+    <string name="summary_menu">Summary</string>
+    <string name="add_menu">Add</string>
+    <string name="calendar_menu">Calendar</string>
+    <string name="help_menu">Help</string>
+</resources>

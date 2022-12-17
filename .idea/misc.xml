@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/border.xml" value="0.2265" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/border_ui.xml" value="0.147" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/bottom_drawer.xml" value="0.1185" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/child_selector.xml" value="0.127" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/fab_shadow.xml" value="0.2265" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1185" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/drawable/listview_back.xml" value="0.1185" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_about.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_detail.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_detail_history.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_history.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_home.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/activity_splash.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/calendar_res_layout.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/expenses_form.xml" value="0.259375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/form_expense.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/form_fab.xml" value="0.259375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/form_income.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/fragment_add.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/fragment_calendar.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/fragment_faq.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/fragment_history.xml" value="0.259375" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/fragment_summary.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/history_listview.xml" value="0.4" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/search_fab.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/summary_item.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/layout/summary_listview.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Budgetku/app/src/main/res/menu/menu_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
